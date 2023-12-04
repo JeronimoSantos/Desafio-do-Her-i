@@ -1,0 +1,16 @@
+let nomeHeroi = "Jeje Aventura"
+let xp = 7500
+
+for (let pocaoDeXp = 0; pocaoDeXp <3; pocaoDeXp++){
+  console.log ("Aumentou o xp em 500")}
+switch (xp){
+  case 900:
+  console.log ("Ferro")
+  case 7500:
+  console.log ("Platina")
+  break
+  case 10001:
+  console.log ("Radiante")}
+
+console.log ("O Herói de nome " + nomeHeroi + "está no nível de " + xp)
+  
